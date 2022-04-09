@@ -53,4 +53,3 @@ if __name__ == '__main__':
     duration = 628
     print(naive_realisation(duration))
     print(one_cycle_realisation(duration))
-#
